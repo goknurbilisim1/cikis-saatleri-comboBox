@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\bin\Debug\comboBox-if-ornek.exe.config
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\bin\Debug\comboBox-if-ornek.exe
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\bin\Debug\comboBox-if-ornek.pdb
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox-if-ornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox-if-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox_if_ornek.Form1.resources
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox_if_ornek.Properties.Resources.resources
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox-if-ornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox-if-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox-if-ornek.exe
+C:\Users\User\source\repos\comboBox-if-ornek\comboBox-if-ornek\obj\Debug\comboBox-if-ornek.pdb
